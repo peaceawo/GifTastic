@@ -7,6 +7,11 @@ A Web based Javascript/ HTML5 Gif fetching application that uses the GIPHY API t
 
 
 
+<img width="1295" alt="gif" src="https://user-images.githubusercontent.com/51039590/63801515-b7dbd880-c8cd-11e9-9e89-b3bece91f1a0.png">
+
+
+
+
 ### Tech Used
  * HTML5
  * CSS
